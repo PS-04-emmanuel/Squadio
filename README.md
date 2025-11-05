@@ -42,6 +42,12 @@ Through these features, Squadio creates a supportive environment for authentic l
 ## Screenshots
 
 
+### Sign In
+<img width="1917" height="923" alt="Sign-in-page" src="https://github.com/user-attachments/assets/b83d70cc-df42-4b09-874b-09e771b8345b" />
+
+![smooth-transition-line](https://github.com/user-attachments/assets/fe2fd34e-d601-4c17-9b08-82e1ad24100f)
+
+
 ### Light Mode
 <img width="1901" height="928" alt="Light-Home-Page" src="https://github.com/user-attachments/assets/4ef89dca-cbcd-4e4b-8ba0-e2577e226a55" />
 
@@ -49,14 +55,13 @@ Through these features, Squadio creates a supportive environment for authentic l
 ![smooth-transition-line](https://github.com/user-attachments/assets/fe2fd34e-d601-4c17-9b08-82e1ad24100f)
 
 ### Dark Mode
-![weather-dark-mode](https://github.com/user-attachments/assets/e8d94e41-c7fd-4c60-92c2-6ad1dbaf47fb)
+<img width="1902" height="927" alt="Home-Page-Dark" src="https://github.com/user-attachments/assets/a6a1607c-d934-48b4-84ed-738f22a05c85" />
+
 
 
 ![smooth-transition-line](https://github.com/user-attachments/assets/3b4a8730-370b-4512-8a4d-500f1246ac63)
 
 
-## Video
-
-![Recording 2025-02-02 004400](https://github.com/user-attachments/assets/e4c0af30-86b8-4020-a0e9-54f8f18249b0)
-![smooth-transition-line](https://github.com/user-attachments/assets/ad2c3d3f-be42-4c02-8e39-4d4d1e130e83)
+## Video Link
+[Squadio-overview](https://go.screenpal.com/watch/cTXhF7nFUON)
 
